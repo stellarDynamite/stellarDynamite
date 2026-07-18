@@ -27,7 +27,7 @@ I enjoy building software, solving algorithmic problems, and occasionally disapp
 
 ### 📊 GitHub Stats
 
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellarDynamite&show_icons=true&theme=radical)
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellarDynamite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarDynamite&layout=compact&theme=radical)
 
 ---
